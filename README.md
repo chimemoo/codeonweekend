@@ -38,8 +38,8 @@ Code On Weekend adalah komunitas yang membantu anggota meningkatkan skill pemrog
 https://t.me/joinchat/N1CqYhunbY6G7ApCrHc5Jg (Grup Telegram)
 
 # Community Source
-* Community FAQ (Soon)
-* Project Guidelines (Soon)
+* [Community FAQ](/doc/FAQ.md)
+* [Project Guidelines](/doc/GUIDELINE.md)
 * Project Showcase (Soon)
 * Github Training (Soon)
 * Project Maintainers (Soon)
